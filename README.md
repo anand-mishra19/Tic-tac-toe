@@ -26,7 +26,8 @@ A fun and interactive browser-based **Tic Tac Toe** game built using pure HTML, 
 
 ## 📸 Screenshot
 
-#Tic-Tac-Toe-SS.png
+![Tic-Tac-Toe-SS (1)](https://github.com/user-attachments/assets/b83ddd8a-b876-468e-b49c-58d88325eef9)
+
 
 ## 🚀 How to Run Locally
 
